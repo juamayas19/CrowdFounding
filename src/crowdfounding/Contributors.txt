@@ -1,0 +1,2 @@
+Juan Amaya; 45; 001; 5; 10;
+Mario Aguirre; 68; 002; 10; 70;

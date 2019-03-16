@@ -1,0 +1,2 @@
+Sergio Bustos; 22; 001; 3; 8; 20000;
+Andrés Quiroga; 38; 002; 5; 1; 300000;
